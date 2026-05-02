@@ -54,6 +54,10 @@ Llama-3.1-8B-Instruct via vLLM (self-host fallback) · Hetzner Cloud (EU).
 
 We follow [REUSE.software](https://reuse.software/) for SPDX headers.
 
+## Governance
+
+Razberi is currently led by the Project Founder (BDFL phase) with a planned transition to a multi-stakeholder Steering Committee. See [GOVERNANCE.md](GOVERNANCE.md) for details.
+
 ## GenAI policy
 
 This project complies with [NLnet Foundation's GenAI Policy v1.1](https://nlnet.nl/foundation/policies/generativeAI/).
@@ -85,3 +89,8 @@ maintained in `docs/genai-policy.md`. All code is human-reviewed and human-teste
 ## License
 
 [GNU Affero General Public License v3.0](LICENSE)
+
+---
+*Razberi — Grounded, Auditable, Free.*
+
+See also: [GOVERNANCE.md](GOVERNANCE.md) | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
